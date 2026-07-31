@@ -75,27 +75,27 @@ The dashboard was created using the cleaned dataset exported from the notebook.
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard/screenshots/dashboard1.png)
+![Dashboard Overview](dashboard/dashboard1.png)
 
 ### Dashboard Crops
 
-![Dashboard Crops](dashboard/screenshots/dashboard2.png)
+![Dashboard Crops](dashboard/dashboard2.png)
 
 ### Dashboard Climate
 
-![Dashboard Climate](dashboard/screenshots/dashboard3.png)
+![Dashboard Climate](dashboard/dashboard3.png)
 
 ### Dashboard Insights
 
-![Dashboard Insights](dashboard/screenshots/dashboard4.png)
+![Dashboard Insights](dashboard/dashboard4.png)
 
 ### Dashboard Details
 
-![Dashboard Details](dashboard/screenshots/dashboard5.png)
+![Dashboard Details](dashboard/dashboard5.png)
 
 ### Dashboard Help
 
-![Dashboard Help](dashboard/screenshots/dashboard6.png)
+![Dashboard Help](dashboard/dashboard6.png)
 
 ---
 
